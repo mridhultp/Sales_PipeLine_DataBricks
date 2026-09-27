@@ -1,0 +1,80 @@
+{"customer_id":"C001","gender":"M","age":35.0,"city":"Delhi","loyalty_tier":"Gold","signup_date":"01-Apr-2020"}
+{"customer_id":"C002","gender":null,"age":39.0,"city":" Gurgaon","loyalty_tier":"silver","signup_date":"14\/11\/2023"}
+{"customer_id":"C003","gender":"F","age":null,"city":"Kolkata","loyalty_tier":"Silver","signup_date":"2022\/09\/13"}
+{"customer_id":"C004","gender":"Male","age":null,"city":"BENGALURU","loyalty_tier":null,"signup_date":"2017-02-21"}
+{"customer_id":"C005","gender":"Male","age":19.0,"city":"Pune","loyalty_tier":"PLATINUM","signup_date":"2022\/06\/06"}
+{"customer_id":"C006","gender":"f","age":37.0,"city":"Hyderabad","loyalty_tier":null,"signup_date":"27-Apr-2018"}
+{"customer_id":"C007","gender":"M","age":50.0,"city":"Kolkata","loyalty_tier":null,"signup_date":"2021\/11\/02"}
+{"customer_id":"C008","gender":null,"age":59.0,"city":"Bangalore","loyalty_tier":"Silver","signup_date":"17-Jun-2021"}
+{"customer_id":"C009","gender":"F","age":22.0,"city":"BENGALURU","loyalty_tier":null,"signup_date":"06-May-2020"}
+{"customer_id":"C010","gender":"M","age":58.0,"city":"Hyderabad","loyalty_tier":"Gold","signup_date":"12\/12\/2019"}
+{"customer_id":"C011","gender":"m","age":21.0,"city":"delhi","loyalty_tier":"gold","signup_date":"19\/07\/2021"}
+{"customer_id":"C012","gender":"female","age":52.0,"city":"Noida","loyalty_tier":"PLATINUM","signup_date":"2021-03-04"}
+{"customer_id":"C013","gender":"M","age":34.0,"city":null,"loyalty_tier":"silver","signup_date":"06-Sep-2023"}
+{"customer_id":"C014","gender":"m","age":-1.0,"city":"mumbai","loyalty_tier":"Silver","signup_date":"21-Sep-2021"}
+{"customer_id":"C015","gender":"Male","age":68.0,"city":" Gurgaon","loyalty_tier":"PLATINUM","signup_date":"2016\/10\/27"}
+{"customer_id":"C016","gender":"M","age":48.0,"city":"Mumbai","loyalty_tier":"silver","signup_date":"23-Aug-2020"}
+{"customer_id":"C017","gender":"M","age":44.0,"city":"Delhi","loyalty_tier":"Platinum","signup_date":"04\/03\/2020"}
+{"customer_id":"C018","gender":"Male","age":66.0,"city":" Gurgaon","loyalty_tier":"PLATINUM","signup_date":"10-Jan-2022"}
+{"customer_id":"C019","gender":"F","age":36.0,"city":null,"loyalty_tier":"PLATINUM","signup_date":"18\/02\/2020"}
+{"customer_id":"C020","gender":"female","age":58.0,"city":"Bangalore","loyalty_tier":"PLATINUM","signup_date":"2020-11-05"}
+{"customer_id":"C021","gender":"F","age":-1.0,"city":"Noida","loyalty_tier":null,"signup_date":"2019\/05\/29"}
+{"customer_id":"C022","gender":"M","age":51.0,"city":" Gurgaon","loyalty_tier":"Platinum","signup_date":"2019-11-08"}
+{"customer_id":"C023","gender":"female","age":54.0,"city":"Hyderabad","loyalty_tier":"Silver","signup_date":"18\/01\/2019"}
+{"customer_id":"C024","gender":"Female","age":20.0,"city":" Gurgaon","loyalty_tier":"Silver","signup_date":"18\/03\/2018"}
+{"customer_id":"C025","gender":"M","age":23.0,"city":"mumbai","loyalty_tier":"silver","signup_date":"09-Dec-2016"}
+{"customer_id":"C026","gender":"female","age":69.0,"city":" Gurgaon","loyalty_tier":"Platinum","signup_date":"2021\/06\/05"}
+{"customer_id":"C027","gender":"m","age":54.0,"city":"Lucknow","loyalty_tier":null,"signup_date":"2019\/10\/26"}
+{"customer_id":"C028","gender":"Female","age":57.0,"city":"delhi","loyalty_tier":"Gold","signup_date":"2022\/09\/28"}
+{"customer_id":"C029","gender":null,"age":21.0,"city":"Hyderabad","loyalty_tier":null,"signup_date":"2020\/01\/22"}
+{"customer_id":"C030","gender":null,"age":39.0,"city":null,"loyalty_tier":"Bronze","signup_date":"2018\/01\/10"}
+{"customer_id":"C031","gender":"M","age":34.0,"city":"Lucknow","loyalty_tier":"Platinum","signup_date":"2022\/04\/08"}
+{"customer_id":"C032","gender":null,"age":null,"city":"Pune","loyalty_tier":"Silver","signup_date":"23-Dec-2018"}
+{"customer_id":"C033","gender":"M","age":42.0,"city":"Pune","loyalty_tier":"Silver","signup_date":"21-Mar-2021"}
+{"customer_id":"C034","gender":"Female","age":46.0,"city":"mumbai","loyalty_tier":"silver","signup_date":"2018\/10\/14"}
+{"customer_id":"C035","gender":"female","age":39.0,"city":"Mumbai","loyalty_tier":"Platinum","signup_date":"2017-05-20"}
+{"customer_id":"C036","gender":"m","age":48.0,"city":" Gurgaon","loyalty_tier":"Gold","signup_date":"10\/04\/2021"}
+{"customer_id":"C037","gender":null,"age":32.0,"city":"mumbai","loyalty_tier":"Gold","signup_date":"13-Mar-2021"}
+{"customer_id":"C038","gender":"M","age":62.0,"city":"Delhi","loyalty_tier":"gold","signup_date":"13\/03\/2019"}
+{"customer_id":"C039","gender":"m","age":18.0,"city":"Noida","loyalty_tier":"Platinum","signup_date":"2018-03-22"}
+{"customer_id":"C040","gender":"f","age":51.0,"city":"Lucknow","loyalty_tier":"Bronze","signup_date":"2019\/05\/25"}
+{"customer_id":"C041","gender":"male","age":24.0,"city":"Noida","loyalty_tier":"gold","signup_date":"2018-03-10"}
+{"customer_id":"C042","gender":"m","age":25.0,"city":"Mumbai","loyalty_tier":"PLATINUM","signup_date":"2023\/05\/03"}
+{"customer_id":"C043","gender":"female","age":30.0,"city":"Chennai","loyalty_tier":"Bronze","signup_date":"02\/06\/2016"}
+{"customer_id":"C044","gender":"Female","age":null,"city":"Mumbai","loyalty_tier":"Gold","signup_date":"15-Aug-2020"}
+{"customer_id":"C045","gender":"female","age":null,"city":"Chennai","loyalty_tier":"PLATINUM","signup_date":"02-Nov-2023"}
+{"customer_id":"C046","gender":"F","age":59.0,"city":"Lucknow","loyalty_tier":"silver","signup_date":"2018-05-18"}
+{"customer_id":"C047","gender":null,"age":44.0,"city":"Chennai","loyalty_tier":"PLATINUM","signup_date":"19\/05\/2020"}
+{"customer_id":"C048","gender":"m","age":null,"city":"Noida","loyalty_tier":"Gold","signup_date":"20\/03\/2019"}
+{"customer_id":"C049","gender":"male","age":26.0,"city":"Delhi","loyalty_tier":null,"signup_date":"2019-12-16"}
+{"customer_id":"C050","gender":"male","age":31.0,"city":"Kolkata","loyalty_tier":"Gold","signup_date":"2017-03-09"}
+{"customer_id":"C051","gender":null,"age":31.0,"city":"Kolkata","loyalty_tier":"Platinum","signup_date":"11\/09\/2020"}
+{"customer_id":"C052","gender":"male","age":28.0,"city":null,"loyalty_tier":"Silver","signup_date":"2019-09-17"}
+{"customer_id":"C053","gender":"Male","age":30.0,"city":"delhi","loyalty_tier":"PLATINUM","signup_date":"2016-09-01"}
+{"customer_id":"C054","gender":"F","age":26.0,"city":"delhi","loyalty_tier":"Gold","signup_date":"2020\/01\/10"}
+{"customer_id":"C055","gender":"Female","age":45.0,"city":"Hyderabad","loyalty_tier":"Platinum","signup_date":"2017-01-01"}
+{"customer_id":"C056","gender":"f","age":68.0,"city":"Chennai","loyalty_tier":"Gold","signup_date":"2016-08-25"}
+{"customer_id":"C057","gender":"Male","age":26.0,"city":" Gurgaon","loyalty_tier":"Gold","signup_date":"12-Oct-2022"}
+{"customer_id":"C058","gender":"m","age":41.0,"city":"delhi","loyalty_tier":"Platinum","signup_date":"2020-09-03"}
+{"customer_id":"C059","gender":"f","age":18.0,"city":null,"loyalty_tier":"silver","signup_date":"2021-09-05"}
+{"customer_id":"C060","gender":"f","age":null,"city":"BENGALURU","loyalty_tier":"Platinum","signup_date":"03-Nov-2022"}
+{"customer_id":"C061","gender":"male","age":65.0,"city":" Gurgaon","loyalty_tier":"Bronze","signup_date":"2020-06-22"}
+{"customer_id":"C062","gender":"Female","age":67.0,"city":"Noida","loyalty_tier":"gold","signup_date":"30\/04\/2023"}
+{"customer_id":"C063","gender":"m","age":null,"city":"BENGALURU","loyalty_tier":"Gold","signup_date":"05\/01\/2023"}
+{"customer_id":"C064","gender":"Female","age":63.0,"city":"mumbai","loyalty_tier":"Silver","signup_date":"2019-01-12"}
+{"customer_id":"C065","gender":"Male","age":41.0,"city":"Bangalore","loyalty_tier":"gold","signup_date":"2020-08-09"}
+{"customer_id":"C066","gender":"f","age":25.0,"city":"delhi","loyalty_tier":"Silver","signup_date":"12-Sep-2019"}
+{"customer_id":"C067","gender":"f","age":23.0,"city":"Lucknow","loyalty_tier":"Silver","signup_date":"2022-12-11"}
+{"customer_id":"C068","gender":"male","age":40.0,"city":"delhi","loyalty_tier":"Platinum","signup_date":"2017\/06\/25"}
+{"customer_id":"C069","gender":"M","age":18.0,"city":null,"loyalty_tier":"PLATINUM","signup_date":"2017-06-15"}
+{"customer_id":"C070","gender":"F","age":67.0,"city":"Kolkata","loyalty_tier":"gold","signup_date":"2016-09-22"}
+{"customer_id":"C071","gender":"Male","age":54.0,"city":"Mumbai","loyalty_tier":"Bronze","signup_date":"25-Jun-2019"}
+{"customer_id":"C072","gender":"female","age":19.0,"city":"delhi","loyalty_tier":"Platinum","signup_date":"16-Jun-2019"}
+{"customer_id":"C073","gender":"Female","age":45.0,"city":"Delhi","loyalty_tier":"Platinum","signup_date":"2017-11-27"}
+{"customer_id":"C074","gender":"female","age":46.0,"city":"mumbai","loyalty_tier":"Bronze","signup_date":"2020\/06\/29"}
+{"customer_id":"C075","gender":"female","age":31.0,"city":"Delhi","loyalty_tier":null,"signup_date":"24-Jun-2016"}
+{"customer_id":"C076","gender":"M","age":59.0,"city":" Gurgaon","loyalty_tier":"Silver","signup_date":"2024-01-03"}
+{"customer_id":"C077","gender":"m","age":57.0,"city":"Kolkata","loyalty_tier":"silver","signup_date":"04\/06\/2023"}
+{"customer_id":"C078","gender":"m","age":24.0,"city":"Delhi","loyalty_tier":"Gold","signup_date":"03\/06\/2018"}
+{"customer_id":"C079","gender":"F","age":37.0,"city":"Hyderabad","loyalty_tier":"PLATINUM","signup_date":"30-Nov-2023"}
+{"customer_id":"C080","gender":"f","age":51.0,"city":"Lucknow","loyalty_tier":"Silver","signup_date":"10\/01\/2016"}

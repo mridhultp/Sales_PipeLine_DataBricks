@@ -1,0 +1,296 @@
+order_id,order_date,customer_id,customer_name,product_id,product_name,category,quantity,price,payment_type,order_status,returned,total_amount
+1039,2025-08-19T00:00:00.000Z,C079,Customer_79,P108,T-Shirt L,apparel,1,220.61,cash,cancelled,no,220.61
+1046,2025-07-26T00:00:00.000Z,C080,Customer_80,P118,jacket,apparel,3,314.63,card,shipped,yes,943.89
+1064,2025-07-20T00:00:00.000Z,C072,Customer_72,P112,Backpack,accessories,3,270.6,cash,delivered,no,811.8000000000001
+1086,2025-07-29T00:00:00.000Z,C020,Customer_20,P119,Sunglasses,accessories,3,158.56,card,delivered,no,475.68
+1112,2025-12-08T00:00:00.000Z,C056,Customer_56,P103,denim jean,apparel,3,186.14,cash,completed,no,558.42
+1124,2025-08-07T00:00:00.000Z,C024,Customer_24,P108,t-shirt l,apparel,3,91.87,cash,completed,no,275.61
+1127,2025-09-10T00:00:00.000Z,C061,Customer_61,P117,USB Cable,accessories,3,382.12,cash,returned,yes,1146.3600000000001
+1145,2025-09-14T00:00:00.000Z,C030,Customer_30,P101,T-shirt XL,apparel,3,139.19,upi,completed,no,417.57
+1191,2025-07-28T00:00:00.000Z,C026,Customer_26,P102,Sneakers,shoes,2,453.01,card,shipped,no,906.02
+1192,2025-07-31T00:00:00.000Z,C055,Customer_55,P112,Backpack,accessories,1,143.53,upi,delivered,no,143.53
+1210,2025-09-18T00:00:00.000Z,C019,Customer_19,P104,Headphone,electronics,3,462.84,cash,cancelled,no,1388.52
+1242,2025-08-08T00:00:00.000Z,C078,Customer_78,P113,Belt,accessories,3,357.38,upi,delivered,no,1072.1399999999999
+1273,2025-07-31T00:00:00.000Z,C053,Customer_53,P106,SmartPhone,electronics,3,281.75,cash,shipped,no,845.25
+2004,2025-08-07T00:00:00.000Z,C008,Harry,P107,Charger,accessories,2,9.99,cash,completed,no,19.98
+1040,2025-08-02T00:00:00.000Z,C064,Customer_64,P100,T-Shirt XL,apparel,2,399.93,upi,completed,no,799.86
+1066,2025-07-29T00:00:00.000Z,C070,Customer_70,P111,Socks,apparel,2,329.19,card,delivered,no,658.38
+1076,2025-08-15T00:00:00.000Z,C012,Customer_12,P100,T-Shirt XL,apparel,3,173.74,upi,completed,no,521.22
+1089,2025-08-17T00:00:00.000Z,C047,Customer_47,P113,Belt,accessories,2,377.43,card,delivered,no,754.86
+1096,2025-09-10T00:00:00.000Z,C018,Customer_18,P110,watch,accessories,1,416.04,card,completed,no,416.04
+1107,2025-08-26T00:00:00.000Z,C065,Customer_65,P102,Sneakers,shoes,3,89.74,card,completed,no,269.21999999999997
+1117,2025-08-21T00:00:00.000Z,C020,Customer_20,P113,Belt,accessories,1,437.04,upi,delivered,no,437.04
+1128,2025-08-23T00:00:00.000Z,C071,Customer_71,P101,T-shirt XL,apparel,3,86.45,upi,cancelled,no,259.35
+1129,2025-08-18T00:00:00.000Z,C054,Customer_54,P116,Keyboard,electronics,3,363.02,card,completed,no,1089.06
+1140,2025-05-08T00:00:00.000Z,C071,Customer_71,P115,Mouse,electronics,2,483.42,card,shipped,no,966.84
+1157,2025-08-26T00:00:00.000Z,C048,Customer_48,P114,Adapter,accessories,1,175.76,card,shipped,no,175.76
+1158,2025-08-17T00:00:00.000Z,C061,Customer_61,P111,socks,apparel,2,38.25,upi,completed,no,76.5
+1197,2025-08-28T00:00:00.000Z,C068,Customer_68,P100,T-Shirt XL,apparel,2,404.19,card,completed,no,808.38
+1222,2025-08-13T00:00:00.000Z,C025,Customer_25,P115,Mouse,electronics,2,209.49,cash,returned,yes,418.98
+1223,2025-07-31T00:00:00.000Z,C011,Customer_11,P105,Headphones,electronics,1,319.08,upi,shipped,no,319.08
+1227,2025-08-23T00:00:00.000Z,C049,Customer_49,P101,T-shirt XL,apparel,1,298.99,upi,completed,no,298.99
+1230,2025-07-29T00:00:00.000Z,C015,Customer_15,P102,Sneakers,shoes,3,390.87,card,cancelled,no,1172.6100000000001
+1239,2025-08-15T00:00:00.000Z,C018,Customer_18,P115,Mouse,electronics,1,130.87,cash,shipped,no,130.87
+1257,2025-07-31T00:00:00.000Z,C079,Customer_79,P107,Charger,accessories,3,426.44,card,delivered,no,1279.32
+1259,2025-03-08T00:00:00.000Z,C022,Customer_22,P113,belt,accessories,2,141.96,cash,cancelled,no,283.92
+1260,2025-07-28T00:00:00.000Z,C011,Customer_11,P119,Sunglasses,accessories,1,135.3,upi,completed,no,135.3
+1265,2025-08-17T00:00:00.000Z,C078,Customer_78,P115,mouse,electronics,1,118.85,cash,returned,yes,118.85
+1291,2025-09-14T00:00:00.000Z,C080,Customer_80,P108,T-Shirt L,apparel,1,158.14,upi,shipped,no,158.14
+1004,2025-09-11T00:00:00.000Z,C013,Customer_13,P107,Charger,accessories,3,85.51,upi,completed,no,256.53000000000003
+1005,2025-08-24T00:00:00.000Z,C035,Customer_35,P112,Backpack,accessories,1,343.88,cash,cancelled,no,343.88
+1019,2025-09-17T00:00:00.000Z,C002,Customer_2,P116,Keyboard,electronics,3,469.77,card,delivered,no,1409.31
+1054,2025-09-05T00:00:00.000Z,C050,Customer_50,P104,Headphone,electronics,3,432.69,cash,completed,no,1298.07
+1088,2025-07-22T00:00:00.000Z,C070,Customer_70,P116,Keyboard,electronics,1,438.81,upi,returned,yes,438.81
+1101,2025-08-25T00:00:00.000Z,C048,Customer_48,P114,Adapter,accessories,1,267.08,card,shipped,no,267.08
+1106,2025-09-03T00:00:00.000Z,C039,Customer_39,P104,Headphone,electronics,2,176.28,card,returned,yes,352.56
+1108,2025-08-20T00:00:00.000Z,C074,Customer_74,P106,SmartPhone,electronics,2,322.74,cash,cancelled,no,645.48
+1121,2025-09-17T00:00:00.000Z,C018,Customer_18,P103,denim jean,apparel,1,206.42,cash,delivered,no,206.42
+1130,2025-09-07T00:00:00.000Z,C061,Customer_61,P102,sneakers,shoes,2,384.08,cash,cancelled,no,768.16
+1134,2025-08-31T00:00:00.000Z,C031,Customer_31,P110,Watch,accessories,3,209.71,card,cancelled,no,629.13
+1141,2025-09-18T00:00:00.000Z,C068,Customer_68,P101,t-shirt xl,apparel,3,383.35,card,completed,no,1150.0500000000002
+1179,2025-08-28T00:00:00.000Z,C012,Customer_12,P107,Charger,accessories,3,158.1,card,completed,no,474.29999999999995
+1200,2025-09-17T00:00:00.000Z,C079,Customer_79,P110,Watch,accessories,1,74.62,upi,completed,no,74.62
+1217,2025-08-18T00:00:00.000Z,C055,Customer_55,P108,T-Shirt L,apparel,3,113.01,card,completed,no,339.03000000000003
+1221,2025-08-03T00:00:00.000Z,C043,Customer_43,P105,Headphones,electronics,2,213.13,card,cancelled,no,426.26
+1246,2025-01-08T00:00:00.000Z,C071,Customer_71,P110,watch,accessories,3,415.84,upi,returned,yes,1247.52
+1268,2025-09-07T00:00:00.000Z,C077,Customer_77,P113,belt,accessories,2,313.49,upi,returned,yes,626.98
+1274,2025-08-10T00:00:00.000Z,C013,Customer_13,P105,Headphones,electronics,1,84.57,card,shipped,no,84.57
+1293,2025-08-17T00:00:00.000Z,C062,Customer_62,P111,Socks,apparel,1,186.06,card,delivered,no,186.06
+1002,2025-09-09T00:00:00.000Z,C054,Customer_54,P117,USB Cable,accessories,1,380.61,cash,completed,no,380.61
+1007,2025-07-27T00:00:00.000Z,C064,Customer_64,P116, keyboard ,electronics,2,315.59,upi,cancelled,no,631.18
+1010,2025-09-18T00:00:00.000Z,C031,Customer_31,P109,jeans,apparel,1,47.4,card,cancelled,no,47.4
+1016,2025-07-23T00:00:00.000Z,C063,Customer_63,P117,USB Cable,accessories,3,375.25,card,completed,no,1125.75
+1020,2025-09-12T00:00:00.000Z,C065,Customer_65,P108,T-Shirt L,apparel,1,50.69,card,delivered,no,50.69
+1021,2025-07-29T00:00:00.000Z,C010,Customer_10,P103,Denim Jean,apparel,2,418.12,cash,completed,no,836.24
+1083,2025-08-07T00:00:00.000Z,C058,Customer_58,P114,adapter,accessories,2,324.11,cash,returned,yes,648.22
+1102,2025-02-09T00:00:00.000Z,C058,Customer_58,P108,T-Shirt L,apparel,3,104.09,cash,completed,no,312.27
+1119,2025-08-23T00:00:00.000Z,C036,Customer_36,P117,USB Cable,accessories,1,448.4,cash,completed,no,448.4
+1133,2025-08-03T00:00:00.000Z,C032,Customer_32,P101,T-shirt XL,apparel,1,378.42,upi,returned,yes,378.42
+1136,2025-08-02T00:00:00.000Z,C068,Customer_68,P117,usb cable,accessories,3,325.12,card,completed,no,975.36
+1137,2025-08-19T00:00:00.000Z,C076,Customer_76,P106,SmartPhone,electronics,1,435.39,card,completed,no,435.39
+1178,2025-08-08T00:00:00.000Z,C069,Customer_69,P117,USB Cable,accessories,2,258.1,upi,completed,no,516.2
+1187,2025-09-17T00:00:00.000Z,C031,Customer_31,P104,Headphone,electronics,1,351.86,card,shipped,no,351.86
+1189,2025-07-23T00:00:00.000Z,C032,Customer_32,P102,Sneakers,shoes,2,133.78,upi,returned,yes,267.56
+1205,2025-07-25T00:00:00.000Z,C027,Customer_27,P100,T-Shirt XL,apparel,3,422.67,cash,completed,no,1268.01
+1215,2025-09-11T00:00:00.000Z,C076,Customer_76,P115,Mouse,electronics,1,375.74,upi,shipped,no,375.74
+1216,2025-09-07T00:00:00.000Z,C066,Customer_66,P113,belt,accessories,1,239.68,cash,returned,yes,239.68
+1233,2025-09-09T00:00:00.000Z,C014,Customer_14,P105,Headphones,electronics,3,94.72,upi,shipped,no,284.15999999999997
+1276,2025-08-22T00:00:00.000Z,C025,Customer_25,P109,jeans,apparel,1,309.52,card,delivered,no,309.52
+1285,2025-08-25T00:00:00.000Z,C036,Customer_36,P112,Backpack,accessories,2,408.02,card,shipped,no,816.04
+1035,2025-09-05T00:00:00.000Z,C033,Customer_33,P113,Belt,accessories,3,499.95,card,completed,no,1499.85
+1069,2025-07-20T00:00:00.000Z,C015,Customer_15,P105, Headphones ,electronics,1,396.04,card,cancelled,no,396.04
+1093,2025-08-24T00:00:00.000Z,C003,Customer_3,P102,Sneakers,shoes,2,60.04,upi,returned,yes,120.08
+1116,2025-08-19T00:00:00.000Z,C074,Customer_74,P118,Jacket,apparel,3,264.5,card,completed,no,793.5
+1143,2025-09-10T00:00:00.000Z,C031,Customer_31,P104,Headphone,electronics,3,137.33,card,shipped,no,411.99
+1156,2025-08-30T00:00:00.000Z,C006,Customer_6,P119,Sunglasses,accessories,1,483.57,cash,shipped,no,483.57
+1169,2025-07-25T00:00:00.000Z,C001,Customer_1,P118,Jacket,apparel,2,319.25,card,cancelled,no,638.5
+1172,2025-07-20T00:00:00.000Z,C055,Customer_55,P107,Charger,accessories,1,241.02,card,delivered,no,241.02
+1190,2025-08-03T00:00:00.000Z,C016,Customer_16,P104,headphone,electronics,1,103.08,upi,returned,yes,103.08
+1204,2025-07-26T00:00:00.000Z,C034,Customer_34,P117,USB Cable,accessories,1,199.49,cash,completed,no,199.49
+1206,2025-08-05T00:00:00.000Z,C058,Customer_58,P105,headphones,electronics,1,419.35,card,delivered,no,419.35
+1226,2025-09-06T00:00:00.000Z,C044,Customer_44,P104,Headphone,electronics,1,86.62,card,shipped,no,86.62
+1228,2025-08-08T00:00:00.000Z,C027,Customer_27,P104,Headphone,electronics,1,332.52,cash,completed,no,332.52
+1231,2025-09-01T00:00:00.000Z,C006,Customer_6,P105,Headphones,electronics,1,215.87,card,shipped,no,215.87
+1238,2025-08-17T00:00:00.000Z,C061,Customer_61,P119,Sunglasses,accessories,1,53.23,cash,delivered,no,53.23
+1241,2025-08-27T00:00:00.000Z,C017,Customer_17,P105,headphones,electronics,1,254.53,cash,cancelled,no,254.53
+1248,2025-08-28T00:00:00.000Z,C077,Customer_77,P110,watch,accessories,2,247.82,upi,shipped,no,495.64
+1267,2025-08-25T00:00:00.000Z,C024,Customer_24,P108,T-Shirt L,apparel,1,439.86,cash,returned,yes,439.86
+1270,2025-09-18T00:00:00.000Z,C078,Customer_78,P104, Headphone ,electronics,1,263.41,cash,cancelled,no,263.41
+1281,2025-08-04T00:00:00.000Z,C064,Customer_64,P106,SmartPhone,electronics,1,107.36,card,completed,no,107.36
+1288,2025-07-09T00:00:00.000Z,C046,Customer_46,P109,Jeans,apparel,1,445.37,card,delivered,no,445.37
+1006,2025-09-16T00:00:00.000Z,C028,Customer_28,P110,Watch,accessories,3,75.72,upi,cancelled,no,227.16
+1025,2025-08-05T00:00:00.000Z,C015,Customer_15,P116,Keyboard,electronics,3,355.85,upi,shipped,no,1067.5500000000002
+1026,2025-08-08T00:00:00.000Z,C016,Customer_16,P110,Watch,accessories,3,166.46,cash,shipped,no,499.38
+1048,2025-08-27T00:00:00.000Z,C010,Customer_10,P104,headphone,electronics,2,222.38,upi,returned,yes,444.76
+1055,2025-10-08T00:00:00.000Z,C020,Customer_20,P115,Mouse,electronics,3,230.4,cash,shipped,no,691.2
+1058,2025-07-26T00:00:00.000Z,C030,Customer_30,P109,Jeans,apparel,1,224.62,cash,delivered,no,224.62
+1059,2025-08-13T00:00:00.000Z,C022,Customer_22,P105,Headphones,electronics,2,251.35,cash,completed,no,502.7
+1062,2025-08-08T00:00:00.000Z,C013,Customer_13,P104,Headphone,electronics,2,21.52,upi,cancelled,no,43.04
+1065,2025-07-24T00:00:00.000Z,C042,Customer_42,P117,USB Cable,accessories,1,455.15,cash,cancelled,no,455.15
+1071,2025-07-29T00:00:00.000Z,C010,Customer_10,P114,Adapter,accessories,2,67.46,upi,returned,yes,134.92
+1087,2025-08-12T00:00:00.000Z,C012,Customer_12,P116,Keyboard,electronics,2,184.49,card,shipped,no,368.98
+1097,2025-08-14T00:00:00.000Z,C006,Customer_6,P106,SmartPhone,electronics,1,130.39,upi,delivered,no,130.39
+1115,2025-08-10T00:00:00.000Z,C039,Customer_39,P118, Jacket ,apparel,3,490.05,upi,completed,no,1470.15
+1138,2025-09-07T00:00:00.000Z,C051,Customer_51,P106,SmartPhone,electronics,3,193.43,cash,cancelled,no,580.29
+1161,2025-08-11T00:00:00.000Z,C050,Customer_50,P119,Sunglasses,accessories,2,423.53,upi,returned,yes,847.06
+1168,2025-06-08T00:00:00.000Z,C051,Customer_51,P107,Charger,accessories,2,190.71,upi,delivered,no,381.42
+1175,2025-08-27T00:00:00.000Z,C032,Customer_32,P102,Sneakers,shoes,2,390.59,card,returned,yes,781.18
+1194,2025-08-03T00:00:00.000Z,C035,Customer_35,P112,Backpack,accessories,3,448.4,cash,returned,yes,1345.1999999999998
+1198,2025-09-18T00:00:00.000Z,C047,Customer_47,P116,Keyboard,electronics,3,295.08,cash,cancelled,no,885.24
+1201,2025-08-11T00:00:00.000Z,C034,Customer_34,P100,T-Shirt XL,apparel,2,394.57,card,cancelled,no,789.14
+1212,2025-09-13T00:00:00.000Z,C063,Customer_63,P108,T-Shirt L,apparel,2,71.52,upi,cancelled,no,143.04
+1234,2025-09-13T00:00:00.000Z,C034,Customer_34,P102, Sneakers ,shoes,3,489.06,upi,completed,no,1467.18
+1297,2025-08-20T00:00:00.000Z,C044,Customer_44,P106,SmartPhone,electronics,1,234.52,card,delivered,no,234.52
+1032,2025-02-08T00:00:00.000Z,C043,Customer_43,P113,Belt,accessories,1,197.79,upi,cancelled,no,197.79
+1033,2025-08-27T00:00:00.000Z,C069,Customer_69,P113,Belt,accessories,3,246.67,upi,cancelled,no,740.01
+1044,2025-07-08T00:00:00.000Z,C063,Customer_63,P104, headphone ,electronics,2,241.96,card,completed,no,483.92
+1050,2025-07-25T00:00:00.000Z,C056,Customer_56,P118,Jacket,apparel,2,177.24,cash,cancelled,no,354.48
+1063,2025-05-08T00:00:00.000Z,C065,Customer_65,P116,Keyboard,electronics,2,483.86,card,shipped,no,967.72
+1067,2025-07-23T00:00:00.000Z,C070,Customer_70,P111,Socks,apparel,1,141.56,upi,shipped,no,141.56
+1084,2025-08-19T00:00:00.000Z,C074,Customer_74,P114,Adapter,accessories,3,479.07,card,returned,yes,1437.21
+1094,2025-08-04T00:00:00.000Z,C069,Customer_69,P119,sunglasses,accessories,1,149.18,upi,completed,no,149.18
+1099,2025-08-27T00:00:00.000Z,C042,Customer_42,P102,Sneakers,shoes,2,87.49,upi,cancelled,no,174.98
+1123,2025-08-10T00:00:00.000Z,C039,Customer_39,P100,T-Shirt XL,apparel,1,229.9,upi,cancelled,no,229.9
+1126,2025-09-07T00:00:00.000Z,C065,Customer_65,P112,Backpack,accessories,1,346.69,card,shipped,no,346.69
+1171,2025-09-14T00:00:00.000Z,C026,Customer_26,P113,Belt,accessories,2,83.69,card,delivered,no,167.38
+1184,2025-09-05T00:00:00.000Z,C026,Customer_26,P111,Socks,apparel,1,234.64,upi,returned,yes,234.64
+1188,2025-09-07T00:00:00.000Z,C041,Customer_41,P114,Adapter,accessories,3,228.7,cash,returned,yes,686.0999999999999
+1193,2025-09-09T00:00:00.000Z,C018,Customer_18,P112,Backpack,accessories,3,317.22,cash,cancelled,no,951.6600000000001
+1195,2025-09-05T00:00:00.000Z,C035,Customer_35,P107,Charger,accessories,2,383.2,cash,shipped,no,766.4
+1209,2025-08-09T00:00:00.000Z,C012,Customer_12,P102,Sneakers,shoes,1,262.25,upi,returned,yes,262.25
+1218,2025-08-19T00:00:00.000Z,C078,Customer_78,P119,Sunglasses,accessories,3,171.46,upi,delivered,no,514.38
+1244,2025-08-31T00:00:00.000Z,C014,Customer_14,P116,keyboard,electronics,2,103.95,card,completed,no,207.9
+1266,2025-08-02T00:00:00.000Z,C015,Customer_15,P110,Watch,accessories,3,325.39,card,shipped,no,976.17
+1289,2025-08-30T00:00:00.000Z,C021,Customer_21,P102,Sneakers,shoes,2,356.66,upi,returned,yes,713.32
+1012,2025-08-03T00:00:00.000Z,C001,Customer_1,P107,charger,accessories,3,453.18,cash,shipped,no,1359.54
+1017,2025-08-04T00:00:00.000Z,C052,Customer_52,P107,charger,accessories,2,311.59,card,delivered,no,623.18
+1036,2025-02-08T00:00:00.000Z,C061,Customer_61,P104,Headphone,electronics,3,351.24,upi,completed,no,1053.72
+1043,2025-08-01T00:00:00.000Z,C077,Customer_77,P116,Keyboard,electronics,1,117.6,upi,shipped,no,117.6
+1049,2025-08-03T00:00:00.000Z,C042,Customer_42,P113, Belt ,accessories,1,499.79,cash,returned,yes,499.79
+1068,2025-09-11T00:00:00.000Z,C017,Customer_17,P107,Charger,accessories,3,295.26,card,delivered,no,885.78
+1073,2025-07-26T00:00:00.000Z,C012,Customer_12,P102,Sneakers,shoes,2,406.83,upi,completed,no,813.66
+1074,2025-08-25T00:00:00.000Z,C037,Customer_37,P101,T-shirt XL,apparel,3,81.59,cash,completed,no,244.77
+1085,2025-08-12T00:00:00.000Z,C068,Customer_68,P114,Adapter,accessories,3,196.77,upi,delivered,no,590.3100000000001
+1113,2025-08-14T00:00:00.000Z,C079,Customer_79,P119,sunglasses,accessories,1,398.47,upi,returned,yes,398.47
+1122,2025-07-22T00:00:00.000Z,C069,Customer_69,P107,Charger,accessories,2,211.85,cash,shipped,no,423.7
+1144,2025-08-19T00:00:00.000Z,C012,Customer_12,P101,T-shirt XL,apparel,3,320.19,cash,returned,yes,960.5699999999999
+1162,2025-08-21T00:00:00.000Z,C015,Customer_15,P109,Jeans,apparel,3,212.03,upi,shipped,no,636.09
+1163,2025-07-20T00:00:00.000Z,C080,Customer_80,P114,adapter,accessories,2,72.58,cash,cancelled,no,145.16
+1166,2025-11-08T00:00:00.000Z,C027,Customer_27,P107,Charger,accessories,1,87.16,upi,delivered,no,87.16
+1173,2025-07-26T00:00:00.000Z,C030,Customer_30,P102,Sneakers,shoes,1,160.11,upi,shipped,no,160.11
+1186,2025-09-15T00:00:00.000Z,C036,Customer_36,P104,headphone,electronics,1,351.92,upi,shipped,no,351.92
+1199,2025-07-31T00:00:00.000Z,C046,Customer_46,P119,Sunglasses,accessories,3,156.88,upi,cancelled,no,470.64
+1207,2025-08-23T00:00:00.000Z,C050,Customer_50,P101,T-shirt XL,apparel,3,288.49,card,returned,yes,865.47
+1220,2025-09-18T00:00:00.000Z,C069,Customer_69,P107,Charger,accessories,1,256.12,cash,completed,no,256.12
+1240,2025-08-31T00:00:00.000Z,C016,Customer_16,P118,Jacket,apparel,2,482.11,upi,cancelled,no,964.22
+1245,2025-08-24T00:00:00.000Z,C014,Customer_14,P114,Adapter,accessories,3,372.49,cash,completed,no,1117.47
+1250,2025-09-16T00:00:00.000Z,C058,Customer_58,P111,Socks,apparel,1,479.65,cash,delivered,no,479.65
+1252,2025-09-13T00:00:00.000Z,C027,Customer_27,P102,Sneakers,shoes,3,418.65,cash,completed,no,1255.9499999999998
+1253,2025-08-24T00:00:00.000Z,C010,Customer_10,P102,sneakers,shoes,3,289.61,cash,cancelled,no,868.83
+1262,2025-08-28T00:00:00.000Z,C031,Customer_31,P100,T-Shirt XL,apparel,3,379.82,upi,shipped,no,1139.46
+1284,2025-08-28T00:00:00.000Z,C049,Customer_49,P106,SmartPhone,electronics,2,97.64,cash,shipped,no,195.28
+1290,2025-09-18T00:00:00.000Z,C017,Customer_17,P100,T-Shirt XL,apparel,2,109.23,upi,completed,no,218.46
+1299,2025-09-05T00:00:00.000Z,C042,Customer_42,P109,Jeans,apparel,3,130.39,card,completed,no,391.16999999999996
+1011,2025-09-03T00:00:00.000Z,C070,Customer_70,P106,SmartPhone,electronics,2,202.5,card,shipped,no,405
+1013,2025-07-26T00:00:00.000Z,C061,Customer_61,P107,Charger,accessories,3,180.38,upi,completed,no,541.14
+1024,2025-09-11T00:00:00.000Z,C045,Customer_45,P108,T-Shirt L,apparel,2,469.92,card,completed,no,939.84
+1053,2025-07-27T00:00:00.000Z,C012,Customer_12,P113,Belt,accessories,2,473.8,upi,delivered,no,947.6
+1075,2025-08-27T00:00:00.000Z,C079,Customer_79,P119,Sunglasses,accessories,2,19.33,card,shipped,no,38.66
+1103,2025-09-12T00:00:00.000Z,C071,Customer_71,P102,Sneakers,shoes,3,357.35,card,completed,no,1072.0500000000002
+1110,2025-09-18T00:00:00.000Z,C032,Customer_32,P114,adapter,accessories,2,432.76,upi,delivered,no,865.52
+1125,2025-09-06T00:00:00.000Z,C001,Customer_1,P107,Charger,accessories,1,477.25,upi,delivered,no,477.25
+1135,2025-07-29T00:00:00.000Z,C068,Customer_68,P112,Backpack,accessories,2,191.35,upi,shipped,no,382.7
+1142,2025-08-23T00:00:00.000Z,C062,Customer_62,P119, Sunglasses ,accessories,1,10.87,upi,cancelled,no,10.87
+1149,2025-08-12T00:00:00.000Z,C012,Customer_12,P103,denim jean,apparel,3,55.6,cash,completed,no,166.8
+1153,2025-06-08T00:00:00.000Z,C074,Customer_74,P115,Mouse,electronics,1,185.68,upi,returned,yes,185.68
+1170,2025-09-08T00:00:00.000Z,C074,Customer_74,P117,usb cable,accessories,2,447.61,card,completed,no,895.22
+1196,2025-08-25T00:00:00.000Z,C004,Customer_4,P118,Jacket,apparel,2,283.74,upi,delivered,no,567.48
+1261,2025-08-23T00:00:00.000Z,C071,Customer_71,P101,T-shirt XL,apparel,3,328.68,upi,delivered,no,986.04
+1275,2025-09-17T00:00:00.000Z,C011,Customer_11,P111,Socks,apparel,1,308.91,upi,cancelled,no,308.91
+1277,2025-07-25T00:00:00.000Z,C002,Customer_2,P116,Keyboard,electronics,2,364.44,card,returned,yes,728.88
+1009,2025-09-06T00:00:00.000Z,C065,Customer_65,P109,Jeans,apparel,1,271.99,cash,cancelled,yes,271.99
+1022,2025-09-17T00:00:00.000Z,C053,Customer_53,P117,USB Cable,accessories,1,432.98,card,delivered,no,432.98
+1038,2025-07-24T00:00:00.000Z,C045,Customer_45,P101,T-shirt XL,apparel,2,11.26,upi,cancelled,no,22.52
+1060,2025-08-08T00:00:00.000Z,C057,Customer_57,P102,Sneakers,shoes,2,346.71,card,shipped,no,693.42
+1100,2025-07-30T00:00:00.000Z,C047,Customer_47,P112,Backpack,accessories,1,75.68,card,delivered,no,75.68
+1131,2025-08-22T00:00:00.000Z,C016,Customer_16,P111,Socks,apparel,1,365.29,card,delivered,no,365.29
+1150,2025-09-07T00:00:00.000Z,C050,Customer_50,P110,watch,accessories,3,363.8,card,cancelled,no,1091.4
+1185,2025-09-11T00:00:00.000Z,C004,Customer_4,P113,Belt,accessories,3,475.74,cash,completed,no,1427.22
+1202,2025-07-30T00:00:00.000Z,C074,Customer_74,P115,Mouse,electronics,1,41.49,card,delivered,no,41.49
+1249,2025-09-14T00:00:00.000Z,C069,Customer_69,P117,USB Cable,accessories,3,333.35,upi,cancelled,no,1000.0500000000001
+1263,2025-07-22T00:00:00.000Z,C030,Customer_30,P115,mouse,electronics,1,261.35,card,delivered,no,261.35
+1272,2025-09-08T00:00:00.000Z,C049,Customer_49,P100,T-Shirt XL,apparel,3,184.32,cash,returned,yes,552.96
+1286,2025-08-29T00:00:00.000Z,C064,Customer_64,P113,belt,accessories,2,393.74,card,shipped,no,787.48
+2003,2025-08-03T00:00:00.000Z,C004,David,P103,denim jean,apparel,2,39,card,cancelled,no,78
+1027,2025-08-30T00:00:00.000Z,C027,Customer_27,P109,Jeans,apparel,3,235.17,card,completed,no,705.51
+1030,2025-09-18T00:00:00.000Z,C068,Customer_68,P114,Adapter,accessories,3,308.26,cash,shipped,no,924.78
+1034,2025-08-31T00:00:00.000Z,C004,Customer_4,P117,USB Cable,accessories,2,46.55,cash,delivered,no,93.1
+1056,2025-08-30T00:00:00.000Z,C050,Customer_50,P112,Backpack,accessories,1,250.19,cash,completed,no,250.19
+1061,2025-09-01T00:00:00.000Z,C051,Customer_51,P100,T-Shirt XL,apparel,1,455.76,upi,delivered,no,455.76
+1070,2025-09-18T00:00:00.000Z,C076,Customer_76,P116,keyboard,electronics,3,364.99,card,completed,no,1094.97
+1079,2025-08-16T00:00:00.000Z,C010,Customer_10,P111,Socks,apparel,2,232.58,upi,cancelled,no,465.16
+1154,2025-07-24T00:00:00.000Z,C057,Customer_57,P106,SmartPhone,electronics,1,338.12,upi,cancelled,no,338.12
+1176,2025-08-20T00:00:00.000Z,C031,Customer_31,P101,T-shirt XL,apparel,1,266.5,cash,returned,yes,266.5
+1213,2025-09-10T00:00:00.000Z,C063,Customer_63,P113,Belt,accessories,1,260.06,upi,returned,yes,260.06
+1219,2025-09-04T00:00:00.000Z,C052,Customer_52,P119,Sunglasses,accessories,2,329.42,upi,completed,no,658.84
+1247,2025-07-31T00:00:00.000Z,C023,Customer_23,P114,Adapter,accessories,3,191.71,cash,completed,no,575.13
+1254,2025-09-02T00:00:00.000Z,C009,Customer_9,P119,Sunglasses,accessories,3,182.06,card,delivered,no,546.1800000000001
+1256,2025-08-27T00:00:00.000Z,C019,Customer_19,P117, usb cable ,accessories,3,270.89,cash,shipped,no,812.67
+1031,2025-08-17T00:00:00.000Z,C067,Customer_67,P108,T-Shirt L,apparel,1,358.2,card,shipped,no,358.2
+1041,2025-08-20T00:00:00.000Z,C031,Customer_31,P117,USB Cable,accessories,2,397.5,upi,returned,yes,795
+1077,2025-08-27T00:00:00.000Z,C035,Customer_35,P102,Sneakers,shoes,1,210.02,cash,returned,yes,210.02
+1139,2025-09-13T00:00:00.000Z,C048,Customer_48,P106, SmartPhone ,electronics,3,371.92,cash,delivered,no,1115.76
+1147,2025-07-24T00:00:00.000Z,C007,Customer_7,P111,socks,apparel,2,304.56,card,delivered,no,609.12
+1165,2025-02-08T00:00:00.000Z,C006,Customer_6,P117,USB Cable,accessories,1,55.7,cash,delivered,no,55.7
+1214,2025-08-12T00:00:00.000Z,C032,Customer_32,P101,t-shirt xl,apparel,1,140.62,upi,completed,no,140.62
+1235,2025-08-28T00:00:00.000Z,C020,Customer_20,P112,Backpack,accessories,2,10.76,card,completed,no,21.52
+1287,2025-08-24T00:00:00.000Z,C043,Customer_43,P114,Adapter,accessories,3,175.35,card,returned,yes,526.05
+1294,2025-08-07T00:00:00.000Z,C039,Customer_39,P115,mouse,electronics,2,399.4,cash,shipped,no,798.8
+2002,2025-08-01T00:00:00.000Z,C002,Bob,P101,tshirt xl,apparel,1,19.99,cash,completed,no,19.99
+1023,2025-08-13T00:00:00.000Z,C035,Customer_35,P107,Charger,accessories,2,430,card,shipped,no,860
+1081,2025-08-11T00:00:00.000Z,C066,Customer_66,P116,Keyboard,electronics,3,121.95,card,shipped,no,365.85
+1090,2025-09-10T00:00:00.000Z,C065,Customer_65,P112,Backpack,accessories,2,401.62,upi,completed,no,803.24
+1098,2025-02-09T00:00:00.000Z,C050,Customer_50,P114,Adapter,accessories,2,186.84,card,cancelled,no,373.68
+1104,2025-08-24T00:00:00.000Z,C071,Customer_71,P111,Socks,apparel,3,307.91,cash,returned,yes,923.73
+1114,2025-09-15T00:00:00.000Z,C061,Customer_61,P110,Watch,accessories,3,167.34,cash,returned,yes,502.02
+1148,2025-08-13T00:00:00.000Z,C056,Customer_56,P112,Backpack,accessories,2,387.22,card,cancelled,no,774.44
+1183,2025-09-15T00:00:00.000Z,C074,Customer_74,P102,Sneakers,shoes,1,93.78,cash,delivered,no,93.78
+1208,2025-07-31T00:00:00.000Z,C019,Customer_19,P119,sunglasses,accessories,3,486.22,cash,shipped,no,1458.66
+1211,2025-01-09T00:00:00.000Z,C036,Customer_36,P105,Headphones,electronics,3,24.2,cash,delivered,no,72.6
+1236,2025-09-10T00:00:00.000Z,C029,Customer_29,P116,Keyboard,electronics,2,44.02,cash,delivered,no,88.04
+1237,2025-07-25T00:00:00.000Z,C005,Customer_5,P113, Belt ,accessories,2,445.6,cash,completed,no,891.2
+1243,2025-09-03T00:00:00.000Z,C065,Customer_65,P105,Headphones,electronics,3,381.58,cash,returned,yes,1144.74
+1279,2025-08-18T00:00:00.000Z,C032,Customer_32,P115,Mouse,electronics,2,448.78,upi,shipped,no,897.56
+1282,2025-09-08T00:00:00.000Z,C006,Customer_6,P117,USB Cable,accessories,1,449.57,upi,delivered,no,449.57
+2001,2025-08-01T00:00:00.000Z,C001,Alice,P100,T-shirt XL,apparel,2,19.99,card,completed,no,39.98
+1014,2025-07-31T00:00:00.000Z,C025,Customer_25,P106,SmartPhone,electronics,3,234,card,completed,no,702
+1018,2025-08-25T00:00:00.000Z,C010,Customer_10,P110,watch,accessories,1,41.26,card,delivered,no,41.26
+1037,2025-08-14T00:00:00.000Z,C074,Customer_74,P109,Jeans,apparel,2,42.62,upi,returned,yes,85.24
+1042,2025-08-08T00:00:00.000Z,C043,Customer_43,P117,USB Cable,accessories,3,119.12,card,shipped,no,357.36
+1045,2025-08-04T00:00:00.000Z,C073,Customer_73,P104,Headphone,electronics,3,281.25,cash,cancelled,no,843.75
+1051,2025-07-09T00:00:00.000Z,C012,Customer_12,P114,Adapter,accessories,1,433.13,upi,cancelled,no,433.13
+1095,2025-07-22T00:00:00.000Z,C071,Customer_71,P116,keyboard,electronics,1,490.61,card,delivered,no,490.61
+1109,2025-09-03T00:00:00.000Z,C044,Customer_44,P106,SmartPhone,electronics,2,368.43,upi,returned,yes,736.86
+1118,2025-09-07T00:00:00.000Z,C069,Customer_69,P114,Adapter,accessories,1,306.99,cash,delivered,no,306.99
+1164,2025-08-23T00:00:00.000Z,C029,Customer_29,P100,T-Shirt XL,apparel,3,88.26,upi,completed,no,264.78000000000003
+1174,2025-08-15T00:00:00.000Z,C028,Customer_28,P111,Socks,apparel,3,430.68,upi,cancelled,no,1292.04
+1180,2025-09-13T00:00:00.000Z,C022,Customer_22,P108,T-Shirt L,apparel,2,367.8,cash,returned,yes,735.6
+1224,2025-07-20T00:00:00.000Z,C052,Customer_52,P113,Belt,accessories,3,269.22,card,completed,no,807.6600000000001
+1232,2025-08-14T00:00:00.000Z,C048,Customer_48,P102,Sneakers,shoes,2,481.34,upi,shipped,no,962.68
+1264,2025-08-30T00:00:00.000Z,C075,Customer_75,P108,T-Shirt L,apparel,2,185.82,card,returned,yes,371.64
+1271,2025-09-07T00:00:00.000Z,C013,Customer_13,P118,Jacket,apparel,2,455.49,card,completed,no,910.98
+1292,2025-06-08T00:00:00.000Z,C060,Customer_60,P115,Mouse,electronics,2,71.88,upi,returned,yes,143.76
+1298,2025-09-07T00:00:00.000Z,C049,Customer_49,P108,T-Shirt L,apparel,1,195.47,cash,completed,no,195.47
+1028,2025-07-21T00:00:00.000Z,C040,Customer_40,P107,Charger,accessories,2,126.2,upi,returned,yes,252.4
+1029,2025-09-06T00:00:00.000Z,C019,Customer_19,P107, Charger ,accessories,2,390.32,card,returned,yes,780.64
+1072,2025-08-17T00:00:00.000Z,C071,Customer_71,P103,Denim Jean,apparel,2,209.84,cash,delivered,no,419.68
+1080,2025-07-25T00:00:00.000Z,C059,Customer_59,P119,Sunglasses,accessories,2,423.02,cash,delivered,no,846.04
+1082,2025-08-30T00:00:00.000Z,C058,Customer_58,P118,Jacket,apparel,2,432.8,upi,delivered,no,865.6
+1151,2025-09-08T00:00:00.000Z,C056,Customer_56,P105,Headphones,electronics,3,183.76,card,cancelled,no,551.28
+1159,2025-08-18T00:00:00.000Z,C071,Customer_71,P105,Headphones,electronics,2,399.89,card,returned,yes,799.78
+1182,2025-09-16T00:00:00.000Z,C032,Customer_32,P100,t-shirt xl,apparel,3,93.59,upi,cancelled,no,280.77
+1278,2025-08-24T00:00:00.000Z,C034,Customer_34,P100,T-Shirt XL,apparel,2,254.07,upi,returned,yes,508.14
+1295,2025-09-06T00:00:00.000Z,C011,Customer_11,P108,T-Shirt L,apparel,1,145.92,card,shipped,no,145.92
+1300,2025-07-22T00:00:00.000Z,C016,Customer_16,P118,Jacket,apparel,2,345.76,card,returned,yes,691.52
+1001,2025-07-28T00:00:00.000Z,C004,Customer_4,P103,Denim Jean,apparel,1,339.97,card,shipped,no,339.97
+1003,2025-08-13T00:00:00.000Z,C059,Customer_59,P101,T-shirt XL,apparel,3,278.26,card,completed,no,834.78
+1008,2025-08-10T00:00:00.000Z,C069,Customer_69,P103,Denim Jean,apparel,1,150.28,upi,delivered,no,150.28
+1015,2025-09-13T00:00:00.000Z,C022,Customer_22,P107,Charger,accessories,1,451.71,cash,delivered,no,451.71
+1047,2025-08-18T00:00:00.000Z,C037,Customer_37,P107,Charger,accessories,3,345.26,card,cancelled,no,1035.78
+1057,2025-10-08T00:00:00.000Z,C010,Customer_10,P104,Headphone,electronics,2,326.67,cash,cancelled,no,653.34
+1078,2025-09-18T00:00:00.000Z,C077,Customer_77,P112,backpack,accessories,2,384.84,upi,cancelled,no,769.68
+1091,2025-11-09T00:00:00.000Z,C035,Customer_35,P105,Headphones,electronics,1,50.4,cash,completed,no,50.4
+1105,2025-09-01T00:00:00.000Z,C041,Customer_41,P104,Headphone,electronics,1,68.53,cash,returned,yes,68.53
+1120,2025-08-06T00:00:00.000Z,C062,Customer_62,P108,T-Shirt L,apparel,3,72.95,upi,shipped,no,218.85000000000002
+1132,2025-08-01T00:00:00.000Z,C032,Customer_32,P107,Charger,accessories,1,20.95,card,shipped,no,20.95
+1146,2025-08-25T00:00:00.000Z,C051,Customer_51,P104,Headphone,electronics,2,285.51,upi,shipped,no,571.02
+1152,2025-10-08T00:00:00.000Z,C049,Customer_49,P119,Sunglasses,accessories,2,408.66,upi,shipped,no,817.32
+1155,2025-02-09T00:00:00.000Z,C069,Customer_69,P112,Backpack,accessories,3,274.1,upi,completed,no,822.3000000000001
+1160,2025-09-09T00:00:00.000Z,C028,Customer_28,P100,T-Shirt XL,apparel,1,290.79,cash,completed,no,290.79
+1167,2025-08-21T00:00:00.000Z,C038,Customer_38,P109,Jeans,apparel,2,72.12,upi,shipped,no,144.24
+1177,2025-08-05T00:00:00.000Z,C010,Customer_10,P115,mouse,electronics,3,24.71,upi,returned,yes,74.13
+1203,2025-08-19T00:00:00.000Z,C044,Customer_44,P102,Sneakers,shoes,1,218.51,card,delivered,no,218.51
+1225,2025-08-26T00:00:00.000Z,C040,Customer_40,P111,socks,apparel,3,87.67,upi,returned,yes,263.01
+1258,2025-07-26T00:00:00.000Z,C046,Customer_46,P110,watch,accessories,3,311.66,upi,delivered,no,934.98
+1269,2025-01-09T00:00:00.000Z,C026,Customer_26,P100,T-Shirt XL,apparel,3,414.12,card,returned,yes,1242.3600000000001
+1280,2025-08-04T00:00:00.000Z,C069,Customer_69,P116,keyboard,electronics,1,51.04,cash,delivered,no,51.04
